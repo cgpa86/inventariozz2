@@ -11,8 +11,8 @@ import Productos from "../pages/Productos/Productos";
 const theme = createMuiTheme({
 palette:{
   primary:{
-    main:"#FF0000",
-    light:'3c44b126'
+    main:"#9c0382",
+    light:'#f7defa'
   },
   secondary:{
     main:"#f83245",
